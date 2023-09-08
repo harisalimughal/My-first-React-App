@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.chart-container {
+  margin-bottom: 2rem;
+  width: 50%;
+}
